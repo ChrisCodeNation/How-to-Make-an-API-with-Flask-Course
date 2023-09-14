@@ -1,0 +1,11 @@
+Flask
+Flask-WTF
+Flask-Bootstrap
+Flask-Script
+Flask-Bcrypt
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Mail
+Flask-Login
+flask_babel
+flask_markdown
